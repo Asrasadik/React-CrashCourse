@@ -1,7 +1,3 @@
-# React-CrashCourse
-React Pratice Crash Course by JavascriptMastery
-Pratice code:
-```
 import logo from './logo.svg';
 import { useState, useEffect } from 'react';
 import './App.css';
@@ -54,4 +50,3 @@ const App = () => {
 };
 
 export default App;
-```
